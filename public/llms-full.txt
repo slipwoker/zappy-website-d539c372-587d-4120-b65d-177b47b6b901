@@ -2,13 +2,13 @@
 
 Zappy is a website-building platform targeting business owners, offering a fast and efficient solution to create a perfect business website in just 7 minutes. The webinar landing page is designed to attract existing Zappy customers, showcasing the simplicity and speed of the platform. The brand communicates a sense of empowerment, speed, and ease — helping entrepreneurs take their business online effortlessly.
 
-Source: https://example.com
+Source: https://zappy.zappy5.app
 
 ---
 
 ## zappy by zapier — Zappy
 
-URL: https://example.com
+URL: https://zappy.zappy5.app
 Description: Zappy is a website-building platform targeting business owners, offering a fast and efficient solution to create a perfect business website in just 7 minutes. T
 
 zappy by zapier — Zappy
@@ -790,7 +790,7 @@ mysite.zappy.co.il
 
 ## מדיניות פרטיות
 
-URL: https://example.com/privacy
+URL: https://zappy.zappy5.app/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -988,7 +988,7 @@ Zappy ("החברה", "אנו", "שלנו") מחויבת להגן על פרטיו
 
 ## הצהרת נגישות
 
-URL: https://example.com/accessibility
+URL: https://zappy.zappy5.app/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -1195,7 +1195,7 @@ Zappy מחויבת להנגיש את השירותים לכלל הציבור. א�
 
 ## תנאי שימוש
 
-URL: https://example.com/terms
+URL: https://zappy.zappy5.app/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
