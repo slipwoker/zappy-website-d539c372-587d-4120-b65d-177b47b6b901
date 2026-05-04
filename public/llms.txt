@@ -1,0 +1,66 @@
+# Zappy — Generative Engine Optimization Map
+
+> Zappy is a website-building platform targeting business owners, offering a fast and efficient solution to create a perfect business website in just 7 minutes. The webinar landing page is designed to attract existing Zappy customers, showcasing the simplicity and speed of the platform. The brand communicates a sense of empowerment, speed, and ease — helping entrepreneurs take their business online effortlessly.
+
+---
+
+## Pages
+
+### בית
+https://example.com
+Zappy is a website-building platform targeting business owners, offering a fast and efficient solution to create a perfect business website in just 7 minutes. T
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://example.com
+- Endpoint: https://example.com/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Zappy
+Zappy is a website-building platform targeting business owners, offering a fast and efficient solution to create a perfect business website in just 7 minutes. The webinar landing page is designed to attract existing Zappy customers, showcasing the simplicity and speed of the platform. The brand communicates a sense of empowerment, speed, and ease — helping entrepreneurs take their business online effortlessly.
+
+## Target Audience
+- לקוחות Zappy - בעלי עסקים
+- לקוחות קיימים של Zappy
+- יזמים חדשים
+
+## Industry
+טכנולוגיה / בניית אתרים
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
